@@ -1,0 +1,14 @@
+.first{
+    float:left;
+    border: 5px solid red;
+    width: 50%;
+    font-size: 40px;
+    background-color: aqua;
+}
+.second{
+    float:left;
+    border: 5px solid black;
+    width: 50%;
+    font-size: 40px;
+    background-color: red;
+}
